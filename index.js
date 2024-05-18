@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const contactMeForm = document.querySelector('#contact-me-form');
   const recentWorksData = [
     {
-      coverImg: 'images/bravelender.png',
+      coverImg: "C:\Users\CABLES\OneDrive\Documents\certifications\Unplugged1 2023-12-18 at 21.30.14_4943e455.jpg",
       title: 'Unplugged Insights',
       languages: ['PHP', 'SQL', 'JavaScript',  'HTML', 'CSS', ],
       languagesMobile: ['PHP', 'SQL', 'JavaScript',  'HTML', 'CSS', ],

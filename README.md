@@ -1,1 +1,1 @@
-# My-Portfolio
+Hello and welcome to my Portfolio. Here i get to showcase all of my hardwork and projects that i have worked on including the languages that i am good at. be sure to get in touch with me for collaborations.
